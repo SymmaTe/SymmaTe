@@ -27,7 +27,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **NFT Marketplace** | Decentralized marketplace with listing, buying, and 5% platform fee | Solidity, Foundry, OpenZeppelin | [Repo]() |
+| **NFT Marketplace** | Decentralized marketplace with listing, buying, and 5% platform fee | Solidity, Foundry, OpenZeppelin | https://github.com/SymmaTe/advanced-nft-marketplace |
 | **Project Name** | Description | Tech Stack | [Repo]() |
 | **Project Name** | Description | Tech Stack | [Repo]() |
 
