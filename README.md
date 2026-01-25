@@ -28,7 +28,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **NFT Marketplace** | Decentralized marketplace with listing, buying, and 5% platform fee | Solidity, Foundry, OpenZeppelin | https://github.com/SymmaTe/advanced-nft-marketplace |
-| **Project Name** | Description | React, Vite, Javascript | https://github.com/SymmaTe/nft-marketplace-frontend |
+| **Project Name** | A modern, OpenSea-inspired frontend for the Advanced NFT Marketplace smart contract | React, Vite, Javascript, ether.js | https://github.com/SymmaTe/nft-marketplace-frontend |
 | **Project Name** | Description | Tech Stack | [Repo]() |
 
 ---
