@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SymmaTe&show_icons=true&theme=tokyonight)
+![SymmaTe's GitHub stats](https://github-readme-stats-symmates-projects.vercel.app/api?username=SymmaTe&show_icons=true&theme=tokyonight)
 
 ---
 
