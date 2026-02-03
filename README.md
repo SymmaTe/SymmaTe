@@ -39,7 +39,7 @@
 -  Solidity Fundamentals
 -  Foundry Development Framework
 -  Smart Contract Security Basics (Reentrancy, Access Control)
--  ERC Standards (ERC20, ERC721)
+-  ERC Standards (ERC20, ERC721, ERC1155, ERC1967Proxy)
 -  Advanced DeFi Protocols
 -  Formal Verification
 -  Smart Contract Auditing
