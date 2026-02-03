@@ -29,6 +29,8 @@
 |---------|-------------|------------|------|
 | **NFT Marketplace** | Decentralized marketplace with listing, buying, and 5% platform fee | Solidity, Foundry, OpenZeppelin | https://github.com/SymmaTe/advanced-nft-marketplace |
 | **NFT Marketplace Frontend** | A modern, OpenSea-inspired frontend for the Advanced NFT Marketplace smart contract | React, Vite, Javascript, ether.js | https://github.com/SymmaTe/nft-marketplace-frontend |
+| **DeFi Stablecoin** | A decentralized, algorithmic stablecoin system built with Foundry | Solidity, Foundry, OpenZeppelin, Chainlink | https://github.com/SymmaTe/foundry-defi-stablecoin-f23 |
+| **Project Name** | Description | Tech Stack | [Repo]() |
 | **Project Name** | Description | Tech Stack | [Repo]() |
 
 ---
