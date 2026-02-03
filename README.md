@@ -46,12 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![SymmaTe's GitHub stats](https://github-readme-stats-symmates-projects.vercel.app/api?username=SymmaTe&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: fmy1908809325@gmail.com
