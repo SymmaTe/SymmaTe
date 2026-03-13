@@ -28,10 +28,6 @@ Aderyn
 Git 
 Python
 
-## GitHub Stats
-
-![SymmaTe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SymmaTe&show_icons=true&theme=dark&hide_border=true)
-
 ## Contact
 
 Email: fmy1908809325@gmail.com  
