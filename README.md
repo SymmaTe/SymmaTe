@@ -25,7 +25,7 @@ Solidity
 Foundry  
 Slither  
 Aderyn  
-Git
+Git 
 Python
 
 ## GitHub Stats
