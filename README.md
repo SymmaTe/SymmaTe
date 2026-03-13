@@ -15,7 +15,7 @@ Focused on:
 
 ## Projects
 
-- Smart Contract Security Portfolio
+- [Smart Contract Security Portfolio](https://github.com/SymmaTe/smart-contract-security-portfolio)
 - DeFi Stablecoin Protocol
 - Vulnerability Research Notes
 
