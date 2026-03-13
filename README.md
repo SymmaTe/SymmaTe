@@ -1,59 +1,29 @@
-# Hi there, I'm SymmaTe 👋
+# SymmaTe
 
-## About Me
-🔗 Aspiring Web3 Developer focused on **Solidity** and **Smart Contract Security**
+Smart Contract Auditor
 
-🎓 Self-taught through [Patrick Collins' Cyfrin Updraft](https://updraft.cyfrin.io/) courses
+Focused on:
+- DeFi protocol security research
+- Smart contract vulnerability analysis
 
-🔨 Currently building decentralized applications and exploring DeFi protocols
+## Security Experience
 
-🎯 Goal: Become a Smart Contract Developer / Security Researcher
+- Code4rena contest participant
+- Cyfrin First Flight findings
+- Immunefi bug bounty participant
+- Multiple audit reports (pending publication)
 
----
+## Projects
 
-## 🛠 Tech Stack
+- Smart Contract Security Portfolio
+- DeFi Stablecoin Protocol
+- Vulnerability Research Notes
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Tools
 
----
+Solidity · Foundry · Slither · Aderyn · Python · Git
 
-## 📂 Projects
+## Contact
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **NFT Marketplace** | Decentralized marketplace with listing, buying, and 5% platform fee | Solidity, Foundry, OpenZeppelin | https://github.com/SymmaTe/advanced-nft-marketplace |
-| **NFT Marketplace Frontend** | A modern, OpenSea-inspired frontend for the Advanced NFT Marketplace smart contract | React, Vite, Javascript, ether.js | https://github.com/SymmaTe/nft-marketplace-frontend |
-| **DeFi Stablecoin** | A decentralized, algorithmic stablecoin system built with Foundry | Solidity, Foundry, OpenZeppelin, Chainlink | https://github.com/SymmaTe/foundry-defi-stablecoin-f23 |
-| **Project Name** | Description | Tech Stack | [Repo]() |
-| **Project Name** | Description | Tech Stack | [Repo]() |
-
----
-
-## 📚 Learning Path
-
--  Blockchain Basics
--  Solidity Fundamentals
--  Foundry Development Framework
--  Smart Contract Security Basics (Reentrancy, Access Control)
--  ERC Standards (ERC20, ERC721, ERC1155, ERC1967Proxy)
--  Advanced DeFi Protocols
--  Formal Verification
--  Smart Contract Auditing
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: fmy1908809325@gmail.com
-- 🐦 Twitter: @MingYangFa40352
-
----
-
-*Open to Web3 opportunities - Smart Contract Developer / Security Researcher roles*
-
+Email: fmy1908809325@gmail.com  
+X: [@MingYangFa40352](https://x.com/MingYangFa40352)
