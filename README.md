@@ -11,7 +11,7 @@ Focused on:
 - Code4rena contest participant
 - Cyfrin First Flight findings
 - Immunefi bug bounty participant
-- Multiple audit reports (pending publication)
+- Multiple audit reports 
 
 ## Projects
 
