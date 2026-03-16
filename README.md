@@ -32,4 +32,4 @@ Python
 
 Email: fmy1908809325@gmail.com  
 X: [@MingYangFa40352](https://x.com/MingYangFa40352)  
-Telegram: [@SymmaTe2026](https://t.com/SymmaTe2026)
+Telegram: [@SymmaTe2026](https://t.me/SymmaTe2026)
