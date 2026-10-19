@@ -1,8 +1,10 @@
-# SymmaTe
+# MingYang Fan · SymmaTe
 
 ## Solidity / Blockchain Engineer | DeFi Security Research
 
-I build and test Solidity projects with Foundry, with a focus on DeFi mechanics, NFT marketplaces, Chainlink integrations, and secure contract design. My broader software engineering work includes FastAPI services, CVAT integration, Docker Compose, Nginx, and data-processing workflows.
+I build Solidity contracts and AI-powered Web3 applications, from Aave V3 and Chainlink integrations to Foundry testing and full-stack deployment. My software engineering experience includes FastAPI, Next.js, CVAT integration, Docker Compose, and Nginx.
+
+[Resume (PDF)](https://github.com/SymmaTe/smart-contract-security-portfolio/blob/main/resume.pdf) · [Portfolio](https://github.com/SymmaTe/smart-contract-security-portfolio) · [Liquidation Guard demo](https://liquidation-guard.vercel.app)
 
 ## Blockchain Projects
 
@@ -16,7 +18,7 @@ The Solidity contract projects are Sepolia portfolio deployments, not production
 ## Security Research & Contest Practice
 
 - Maintain Foundry exploit labs and bilingual notes on reentrancy, oracle and flash-loan manipulation, vault accounting, MEV, and signature security.
-- Earned **10 valid CodeHawks First Flight submissions (5 High, 2 Medium, 3 Low)**, 574 EXP, and rank #569 across NFT Dealers, Stratax Contracts, and Snowman Merkle Airdrop.
+- Earned **10 valid CodeHawks First Flight submissions (5 High, 2 Medium, 3 Low)** across NFT Dealers, Stratax Contracts, and Snowman Merkle Airdrop.
 - Built Foundry PoCs and reports for access-control, EIP-712 validation, state-accounting, and incorrect-parameter issues; also participated in Code4rena and Immunefi reviews.
 
 ## Tools
